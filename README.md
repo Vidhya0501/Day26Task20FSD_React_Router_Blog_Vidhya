@@ -1,4 +1,5 @@
-![image](https://github.com/Vidhya0501/Day26Task20FSD_React_Router_Blog_Vidhya/assets/136892823/f69c499c-cb3a-4305-ae34-e4f96b3c0222)
+![image](https://github.com/Vidhya0501/Day26Task20FSD_React_Router_Blog_Vidhya/assets/136892823/8a82b479-ec7b-40dd-925b-b12197f2d006)
+
 
 
 Run this vite react app using command - npm run dev
